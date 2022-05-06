@@ -2,7 +2,7 @@
 
 This challenge is designed to introduce you to making GraphQL queries and getting data from APIs. The aim is to create a basic UI utilizing the data from the DB Train Network. Fortunately, DB provides a public GraphQL API to make this easy.
 
-<https://bahnql.herokuapp.com/graphql> (Source code: <https://github.com/dbsystel/1BahnQL> - note that downloading the source code is *not* required to run queries against the Heroku app).
+<https://bahnql.herokuapp.com/graphql> or <https://api.deutschebahn.com/free1bahnql/graphql> (Source code: <https://github.com/dbsystel/1BahnQL> - note that downloading the source code is *not* required to run queries against the Heroku app).
 
 You should aim to create a basic UI to display data from this API and display it using React. Beyond using React.js, it's 100% up to you: what your UI chooses to show, whether you use any other APIs to supplement this data and if you choose to use any other libraries to help you.
 
