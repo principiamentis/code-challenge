@@ -7,6 +7,8 @@ The following guides provide a good starting point to understand the framework f
 <https://www.graphile.org/postgraphile/quick-start-guide/>
 <https://www.graphile.org/postgraphile/usage-library/#http-middleware>
 
+**Please note:** the links and the challenge use Postgraphile v4, not Postgraphile v5!
+
 ### The challenge
 
 The challenge is to design and implement a simple Meetings system for creating and managing attendees to a meeting. You should first design and implement a basic data model using PSQL and expose this API using Postgraphile.
